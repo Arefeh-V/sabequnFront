@@ -1,0 +1,19 @@
+{
+  "name": "sabequn charity group",
+  "homepage": "https://github.com/Arefeh-V/sabequnFront",
+  "authors": [
+    "a.v"
+  ],
+  "description": "",
+  "main": "dist/index.js",
+  
+  
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
